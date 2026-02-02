@@ -1,12 +1,52 @@
-# React + Vite
+# 👋 Hi, I'm Ilyosbek
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Frontend Developer (Junior)  
+💻 Passionate about modern web technologies and clean UI  
+📍 Uzbekistan
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack & Skills
 
-## Expanding the ESLint configuration
+### 🌐 Frontend
+- **HTML5** – semantic, accessible markup  
+- **CSS3 / SCSS / SASS** – animations, responsive & premium UI  
+- **JavaScript (ES6+)** – logic, loops, functions, DOM, APIs  
+- **React.js** – components, hooks, routing  
+- **Next.js** – routing, layouts, modern React structure  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### ⚙️ Tools & Workflow
+- **Vite / Webpack** – fast builds & bundling  
+- **Git & GitHub** – version control, repos, commits  
+- **API Integration** – REST APIs (MealDB, FakeStore, CocktailDB)  
+- **Responsive Design** – mobile-first layouts  
+
+---
+
+## ✨ What I Focus On
+- Clean & readable code  
+- Premium-looking, minimalistic UI  
+- Animations & interactive effects  
+- Real-world projects, not just tutorials  
+
+---
+
+## 📚 Currently Learning
+- Advanced **React & Next.js**
+- Performance optimization
+- Better UI/UX principles
+- English (CEFR B1 → B2 🚀)
+
+---
+
+## 🎯 Goals
+- Build high-quality frontend projects  
+- Improve animation & 3D effects on the web  
+- Become a strong professional Frontend Developer  
+
+---
+
+## 📫 Contact
+- GitHub: **@Ilyosbek0022**
+
+⭐ Feel free to check out my repositories and projects!

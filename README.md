@@ -33,7 +33,7 @@ skills:
 - Improve animation & 3D effects on the web  
 - Become a strong professional Frontend Developer  
 
-## 📫 Contact
+ Contact
 - GitHub: **@Ilyosbek0022**
 - email:ilyosbeknuriddinov14@gmail.com
 
